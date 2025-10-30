@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"guides/","title":"Guides","text":""},{"location":"guides/#about-playerfan","title":"About PlayerFan","text":""},{"location":"guides/#getting-started","title":"Getting Started","text":""}]}
